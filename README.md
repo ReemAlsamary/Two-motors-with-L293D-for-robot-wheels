@@ -9,7 +9,7 @@ Controling two DC motors with H-Bridge to allow robot wheels moving forward and 
 - Breadboard.
 - Wires.
 
-##**STEPS:**
+## **STEPS:**
 
 1. Creating a new Circuit at TINKERCAD(https://www.tinkercad.com/dashboard).
 
