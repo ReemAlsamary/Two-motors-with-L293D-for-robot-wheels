@@ -76,3 +76,5 @@ https://user-images.githubusercontent.com/86277104/127083516-82da4133-c39f-4aea-
 
 
 
+## Simulation:
+https://www.tinkercad.com/things/gsLVY9bMnYA-funky-blorr/editel
